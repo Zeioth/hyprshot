@@ -63,3 +63,8 @@ submap=reset
 
 ## Why hyprshotgun
 Because it sounds rad as fuck, and the original name was [taken already](https://github.com/Gustash/Hyprshot).
+
+## 🌟 Support the project
+If you want to help me, please star this repository to increase the visibility of the project.
+
+[![Stargazers over time](https://starchart.cc/Zeioth/hyprshotgun.nvim.svg)](https://starchart.cc/Zeioth/hyprshotgun.nvim)
