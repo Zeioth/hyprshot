@@ -5,7 +5,7 @@ Screenshots the way you like: Local, or online
 
 Arch linux users can
 
-    yay -S hyprshotgun
+    paru -S hyprshotgun
 
 For other distros you can clone this repository. But you will have to manually install the package
 
