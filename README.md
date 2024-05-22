@@ -7,7 +7,7 @@ Arch linux users can
 
     yay -S hyprshotgun
 
-For other distros you can clone this repository. But you will need to install the package
+For other distros you can clone this repository. But you will have to manually install the package
 
 ``` sh
 grimblast
